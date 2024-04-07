@@ -1,4 +1,4 @@
-requirements;
+requirements
 absl-py                       2.1.0
 aiobotocore                   2.4.2
 aiofiles                      22.1.0
